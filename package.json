@@ -1,6 +1,6 @@
 {
   "name": "hk-js1",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "hkvision webkits",
   "main": "index.js",
   "scripts": {
